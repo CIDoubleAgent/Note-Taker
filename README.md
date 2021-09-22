@@ -14,6 +14,10 @@
   ## Usage
   Navigate to root repo directory in node and run "npm start" to begin.
   ## Screenshots
+  ![Note_Taker_1]()
+  ![Note_Taker_1]()
+  ![Note_Taker_1]()
+  ![Note_Taker_1]()
   ## How to contribute
   See questions section below.
   ## Liscense
