@@ -10,9 +10,7 @@ app.use(cors());
 app.use(express.static("./public"));
 app.use(express.json());
 
-app.listen(port, () => {
-    console.log(`Listening on port http://localhost:${port}.`);
-});
+app.listen(process.env.PORT || port);
 
 // The following HTML routes should be created:
 // * `GET /notes` should return the `notes.html` file.
