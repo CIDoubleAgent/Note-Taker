@@ -43,7 +43,7 @@ app.delete('/api/notes/:id', function(req, res) {
             return note.id !== id
         })
         fs.writeFile("./db/db.json", JSON.stringify(filteredData), "utf8", (error) => {
-            console.log(error, "Writing Complete!")
+            console.log(error, "Note Deleted")
         })
     })
 });
@@ -67,7 +67,7 @@ app.post('/api/notes', function(req, res) {
             fileData = JSON.parse(data)
             fileData.push(noteData)
             fs.writeFile("./db/db.json", JSON.stringify(fileData), "utf8", (error) => {
-                console.log(error, "Writing Complete!")
+                console.log(error, "Note Saved")
             })
         })
     }
