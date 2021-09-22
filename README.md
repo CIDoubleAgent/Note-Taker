@@ -5,14 +5,15 @@
   ## Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Screenshots](#screenshots)
   * [How to Contribute](#how-to-contribute)
-  * [Tests](#tests)
   * [Liscense](#liscense)
   * [Questions](#questions)
   ## Installation
-  Dependencies: npm express, npm uuid, npm path, npm cors.
+  Requires node. Dependencies: npm express, npm uuid, npm path, npm cors.
   ## Usage
-  Navigate to root folder and run "node index.js" in node to start.
+  Navigate to root repo directory in node and run "npm start" to begin.
+  ## Screenshots
   ## How to contribute
   See questions section below.
   ## Liscense
