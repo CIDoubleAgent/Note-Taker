@@ -14,10 +14,10 @@
   ## Usage
   Navigate to root repo directory in node and run "npm start" to begin.
   ## Screenshots
-  ![Note_Taker_1]()
-  ![Note_Taker_1]()
-  ![Note_Taker_1]()
-  ![Note_Taker_1]()
+  ![Note_Taker_1](https://github.com/CIDoubleAgent/Note-Taker/blob/main/images/Note_Taker_1.png?raw=true)
+  ![Note_Taker_2](https://github.com/CIDoubleAgent/Note-Taker/blob/main/images/Note_Taker_2.png?raw=true)
+  ![Note_Taker_3](https://github.com/CIDoubleAgent/Note-Taker/blob/main/images/Note_Taker_3.png?raw=true)
+  ![Note_Taker_4](https://github.com/CIDoubleAgent/Note-Taker/blob/main/images/Note_Taker_4.png?raw=true)
   ## How to contribute
   See questions section below.
   ## Liscense
