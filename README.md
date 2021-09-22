@@ -1,7 +1,7 @@
   # Note Taker
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Link to deployed site
-  
+  [Note Taker](https://lit-fortress-73592.herokuapp.com/notes)
   ## Description
   Allows user to input and save notes, as well as delete old notes. Uses a Javascript/html/css front end with an npm express back end. Saves notes as JSON objects. 
   ## Table of contents
